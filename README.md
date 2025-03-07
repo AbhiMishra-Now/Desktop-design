@@ -1,6 +1,10 @@
 # 🎨 Personalized Photo & Slogan Text Hoodie Website  
 
-![Project Preview](https://via.placeholder.com/1200x600?text=Project+Preview)  
+[Project Preview] 
+
+
+https://github.com/user-attachments/assets/ef62df3c-caf7-4f22-b59d-0420303a2008
+
 
 > A modern **e-commerce product page** for customizable hoodies, featuring a sleek design, detailed product information, and interactive elements.  
 
