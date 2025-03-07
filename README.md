@@ -156,7 +156,7 @@ This website follows a **Desktop only View.
 
 1️⃣ Clone the repository:  
 ```sh
-git clone https://github.com/your-username/hoodie-customization.git
+git clone https://github.com/AbhiMishra-Now/Desktop-design
 ```
 2️⃣ Open `index.html` in a browser.  
 3️⃣ Customize styles in `styles.css` as needed.  
