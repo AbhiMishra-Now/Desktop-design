@@ -176,9 +176,11 @@ git clone https://github.com/AbhiMishra-Now/Desktop-design
 3. Make changes and commit (`git commit -m "Added new feature"`)  
 4. Push changes and submit a pull request  
  
- 
-
 ---
+## 📷 Image & GIF Previews  
+
+⚠️ **Note:** Images and GIFs were not uploaded due to GitHub's file size limits.  
+You can download them from an external source or check the live demo:
 
 ## ⭐ **If you like this project, give it a star!**  
 
